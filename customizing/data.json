@@ -1,0 +1,40 @@
+{
+"data" :[
+  {
+    "id": 1,
+    "title": "River Peach Fizzio",
+    "description": "길고 깊은 강의 모습과 달콤한 복숭아가 만나 강의 뷰를 즐기며 힐링할 수 있는 상큼한 피지오"
+  },
+
+  {
+      "id": 2,
+      "title": "Iced Peach Black Tea",
+      "description": "찻잎을 직접 우려 만든 상큼하고 청량한 여름철 아이스티로, 복숭아의 진한 맛과 홍차의 조화가 매력적인 음료"
+    },
+
+    {
+      "id": 3,
+      "title": "Strawberry Acai with Lemonade Refreshers™",
+      "description": "딸기, 아사이베리 주스와 레모네이드가 달콤 상큼하게 조화된 맛에 가볍게 에너지 부스팅을 할 수 있는 리프레셔 음료"
+    },
+
+
+    {
+      "id": 4,
+      "title": "Iced Caramel macchiato",
+      "description": "향긋한 바닐라 시럽과 시원한 우유와 얼음을 넣고 점을 찍듯이 에스프레소를 부은 후 벌집모양으로 카라멜 드리즐을 올린 달콤한 커피 음료"
+    },
+
+    {
+      "id": 5,
+      "title": "Iced Starbucks Dolce Latte",
+      "description": "스타벅스의 다른 커피 음료보다 더욱 깊은 커피의 맛과 향에 깔끔한 무지방 우유와 부드러운 돌체 시럽이 들어간 음료로 달콤하고 진한 커피 라떼"
+    },
+    
+    {
+      "id": 6,
+    "title": "Basil Tomato Cream Cheese Bagel Sandwich",
+    "description": "쫄깃한 올리브 탕종 베이글에 상큼한 반건조 토마토를 넣은 크림치즈와 바질 페스토를 더하여 산뜻한 여름에도 가볍게 즐길 수 있는 베이글 샌드"
+    }
+]
+}
